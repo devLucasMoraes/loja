@@ -1,0 +1,1 @@
+alter table produtos add data_cadastro timestamp not null;

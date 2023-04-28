@@ -1,0 +1,1 @@
+ALTER TABLE produtos ALTER COLUMN data_cadastro TYPE DATE;
